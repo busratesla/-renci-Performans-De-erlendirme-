@@ -1,2 +1,2 @@
-# -renci-Performans-De-erlendirme-
+# Orenci Performans Degerlendirme
 Öğrenci Performans Değerlendirme 
